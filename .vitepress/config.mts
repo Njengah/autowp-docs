@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "AutoWP Docs",
   description: "Documentation",
+  base: '/autowp-docs/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
