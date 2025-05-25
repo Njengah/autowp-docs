@@ -1,0 +1,16 @@
+:root {
+  --vp-nav-logo-height: 32px; /* Adjust logo height */
+}
+
+.VPNavBarTitle .logo {
+  margin-right: 8px; /* Adjust spacing */
+}
+
+/* Custom logo styling for different modes */
+html:not(.dark) .logo-dark {
+  display: none;
+}
+
+html.dark .logo-light {
+  display: none;
+}

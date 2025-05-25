@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "AutoWP Docs"
-  text: "Documentation for AutoWP MCP Server"
-  tagline: Automated AI WordPress Site Management 
+  name: "AutoWP MCP"
+  text: "Documentation"
+  tagline: Automated AI WordPress Site Management via MCP
   actions:
     - theme: brand
       text: Markdown Examples
