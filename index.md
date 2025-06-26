@@ -5,7 +5,13 @@ layout: home
 hero:
   name: "AutoWP MCP"
   text: "Documentation"
-  tagline: Automated AI WordPress Site Management via MCP
+  tagline: Automated WordPress Site via MCP
+  image:
+    src: /hero.gif
+    alt: "AutoWP MCP Hero"
+    # You can also add width/height if needed:
+    width: 520
+    # height: 180
   actions:
     - theme: brand
       text: Getting Started

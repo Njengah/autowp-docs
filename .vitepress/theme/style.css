@@ -18,3 +18,10 @@ html.dark .logo-light {
 .VPFeatures.VPHomeFeatures {
   margin-bottom: 4em;
 }
+
+.VPHomeHero .image img {
+  border-radius: 12px;
+  box-shadow: 0px 10px 60px rgba(0, 0, 0, 0.12);
+  max-width: 520px;
+  height: 420px;
+}
