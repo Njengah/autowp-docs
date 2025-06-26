@@ -8,11 +8,11 @@ hero:
   tagline: Automated AI WordPress Site Management via MCP
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Getting Started
+      link: /authentication
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Configuration
+      link: /configuration
 
 features:
   - title: Secure Authentication
@@ -63,8 +63,6 @@ AutoWP MCP (Model Context Protocol) server connects Claude to WordPress sites an
 ## Getting Started
 
 - [Installation & Setup](./installation.md)
-- [Authentication](./authentication.md)
-- [Configuration](./configuration.md)
 
 ## Tool Reference
 
@@ -75,7 +73,6 @@ AutoWP MCP (Model Context Protocol) server connects Claude to WordPress sites an
 - [User Management](./user-management.md)
 - [Plugin & Theme Settings](./plugin-theme-settings.md)
 - [Site Health & Maintenance](./site-health.md)
-
 
 ## Frequently Asked Questions (FAQ)
 
