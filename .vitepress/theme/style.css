@@ -14,3 +14,7 @@ html:not(.dark) .logo-dark {
 html.dark .logo-light {
   display: none;
 }
+
+.VPFeatures.VPHomeFeatures {
+  margin-bottom: 4em;
+}
